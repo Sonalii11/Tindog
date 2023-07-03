@@ -1,2 +1,1 @@
-# Tindog
-Tindog website 
+Popular dating site TinDog was created with dog lovers in mind. It provides a special platform for those who have a love of dogs to meet and perhaps find a loving partner who shares their interest. Users of the website can build profiles for themselves and their dogs on it, complete with pictures and descriptive information about their canine companions. Users can browse through a sizable database of profiles, perform searches based on particular criteria, and communicate privately with other dog lovers. By uniting like-minded people who value the happiness and companionship that dogs offer to their lives, TinDog seeks to establish friendships based on similar interests in dogs.
